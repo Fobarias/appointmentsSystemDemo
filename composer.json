@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "giggsey/libphonenumber-for-php": "^8.12"
+    }
+}
